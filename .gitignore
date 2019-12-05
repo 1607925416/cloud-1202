@@ -1,0 +1,20 @@
+# Project exclude paths
+/cloud-1202-common/target/
+/cloud-1202-config/target/
+/cloud-1202-configTwo/target/
+/cloud-1202-eureka/target/
+/cloud-1202-feign-consumer/target/
+/cloud-1202-provider/target/
+/cloud-1202-ribbon-consumer/target/
+/cloud-1202-turbine/target/
+/cloud-1202-zuul/target/
+
+.idea
+*.iml
+*.ipr
+*.ids
+*.iws
+
+.settings
+.classpath
+.project
