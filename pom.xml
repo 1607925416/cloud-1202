@@ -18,6 +18,7 @@
         <module>cloud-1202-config</module>
         <module>cloud-1202-turbine</module>
         <module>cloud-1202-configTwo</module>
+        <module>cloud-1202-eurekaTwo</module>
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>

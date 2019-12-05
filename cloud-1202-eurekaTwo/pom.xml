@@ -9,9 +9,7 @@
     </parent>
     <modelVersion>4.0.0</modelVersion>
 
-    <artifactId>cloud-1202-eureka</artifactId>
-    <packaging>pom</packaging>
-
+    <artifactId>cloud-1202-eurekaTwo</artifactId>
 
     <dependencies>
         <dependency>
@@ -33,5 +31,4 @@
             </plugin>
         </plugins>
     </build>
-
 </project>

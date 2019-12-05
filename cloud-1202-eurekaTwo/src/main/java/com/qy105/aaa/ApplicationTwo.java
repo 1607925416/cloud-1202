@@ -3,6 +3,7 @@ package com.qy105.aaa;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
+
 /**
  * @Description :
  * @Author      : cat
@@ -12,8 +13,8 @@ import org.springframework.cloud.netflix.eureka.server.EnableEurekaServer;
  */
 @SpringBootApplication
 @EnableEurekaServer
-public class Application {
+public class ApplicationTwo {
     public static void main(String[] args) {
-        SpringApplication.run(Application.class);
+        SpringApplication.run(ApplicationTwo.class);
     }
 }
